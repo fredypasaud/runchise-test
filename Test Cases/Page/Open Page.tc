@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Open Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6bb6fb19-6245-427a-aa2a-599574e91433</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07b88f12-585f-48e4-a255-f32a35dbb7c2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07b88f12-585f-48e4-a255-f32a35dbb7c2</id>
+      <masked>false</masked>
+      <name>nama_toko</name>
+   </variable>
+</TestCaseEntity>

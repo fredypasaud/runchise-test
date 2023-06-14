@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>image_item_absolute</name>
+   <tag></tag>
+   <elementGuidId>d038af94-3986-4545-a84c-06c59e16f53e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div[3]/div/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div[3]/div/div[2]/img</value>
+      <webElementGuid>70b906d9-9731-4612-a026-7afd6f0a7b30</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

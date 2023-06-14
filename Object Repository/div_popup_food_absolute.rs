@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_popup_food_absolute</name>
+   <tag></tag>
+   <elementGuidId>0a8f07cc-3eff-4c37-b9cc-6bdb88f52349</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div[3]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div[3]/div/div[2]</value>
+      <webElementGuid>03ab3a98-eddc-4f13-8dc8-a1723f3c26e8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

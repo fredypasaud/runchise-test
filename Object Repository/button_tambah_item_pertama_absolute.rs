@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_tambah_item_pertama_absolute</name>
+   <tag></tag>
+   <elementGuidId>eafdf586-9e82-48b3-8b6c-b63f146290dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div[2]/div[1]/div/div[5]/div/div/div/div/div/div/div/div[1]/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div[2]/div[1]/div/div[5]/div/div/div/div/div/div/div/div[1]/div/div[2]/div/button</value>
+      <webElementGuid>2e12dfd8-4567-4e7c-9c67-8b1cf2ca5498</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

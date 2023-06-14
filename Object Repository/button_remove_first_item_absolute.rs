@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_remove_first_item_absolute</name>
+   <tag></tag>
+   <elementGuidId>f682cbc6-5aaa-45c1-8b96-2835bc0d1b74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div[2]/div[1]/div/div[1]/div/div/div[2]/button[1]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div[2]/div[1]/div/div[1]/div/div/div[2]/button[1]/div</value>
+      <webElementGuid>e1d1dd5e-9d71-44a3-b8cf-4daf9097d671</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

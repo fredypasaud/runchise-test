@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add To Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67f2c1f5-5383-4ca9-b743-7568385c4128</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3075ba45-eec0-47ad-9d70-7bbfb1d2d7e0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4628f982-87ea-44cc-abf4-1b74ce348404</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Popcorn Caramel'</defaultValue>
+      <description></description>
+      <id>3075ba45-eec0-47ad-9d70-7bbfb1d2d7e0</id>
+      <masked>false</masked>
+      <name>item_satu</name>
+   </variable>
+   <variable>
+      <defaultValue>'Grass Jelly'</defaultValue>
+      <description></description>
+      <id>4628f982-87ea-44cc-abf4-1b74ce348404</id>
+      <masked>false</masked>
+      <name>item_dua</name>
+   </variable>
+</TestCaseEntity>

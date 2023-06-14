@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Choose Branch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c598ee71-2b2c-4657-b542-9099a7335857</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe743035-fb0e-496a-97da-8de11f088f72</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Test Loc2'</defaultValue>
+      <description></description>
+      <id>fe743035-fb0e-496a-97da-8de11f088f72</id>
+      <masked>false</masked>
+      <name>nama_branch</name>
+   </variable>
+</TestCaseEntity>

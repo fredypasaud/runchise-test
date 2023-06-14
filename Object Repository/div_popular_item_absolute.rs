@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_popular_item_absolute</name>
+   <tag></tag>
+   <elementGuidId>fa7b253f-f6b2-44a3-b721-fb27eee702b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div[2]/div/div/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div[2]/div/div/div[3]/div/div</value>
+      <webElementGuid>40ab7121-a4a5-4ec7-997f-6e872a588a90</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

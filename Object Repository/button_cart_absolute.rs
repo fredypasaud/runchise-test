@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_cart_absolute</name>
+   <tag></tag>
+   <elementGuidId>75aaaa97-fc37-462c-8c81-6ad3dff694c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div/div[2]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>aa040847-42b8-4a27-b966-87e449066da5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

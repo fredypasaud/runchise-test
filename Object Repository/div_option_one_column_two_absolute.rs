@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_option_one_column_two_absolute</name>
+   <tag></tag>
+   <elementGuidId>1d13b859-e009-45e2-8ac1-4ef21a9d13d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div[3]/div/div[2]/div[3]/div[2]/div/div/div/div[1]/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[2]/div[3]/div/div[2]/div[3]/div[2]/div/div/div/div[1]/button/div</value>
+      <webElementGuid>a0a3c586-43e4-4c6d-9b6c-6cf16a5047fc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

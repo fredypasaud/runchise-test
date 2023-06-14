@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_dynamic</name>
+   <tag></tag>
+   <elementGuidId>9b1268e3-0279-4429-a869-ad702c3c29aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//p[text()='${text}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//p[text()='${text}']</value>
+      <webElementGuid>6a2be676-4e71-4e7f-99fc-91480d6a3a55</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
